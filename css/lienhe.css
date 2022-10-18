@@ -1,0 +1,45 @@
+.sec2 {
+    margin-top: 30px;
+}
+
+.sec2 .col_container h2 {
+    text-align: center;
+    color: white;
+    font-family: Comic Sans MS;
+    padding-top: 10px;
+}
+.col_container p{
+    padding-top: 30px;
+    color: white;
+    margin-left: 150px;
+}
+.sec2 .col_container iframe{
+    width: 560px;
+}
+
+.sec2 .col_container img {
+    width: 1000px;
+    height: 300px;
+    margin-left:6.8px ;
+}
+
+.sec2 .col_container {
+    display: flex;
+    min-height: 500px;
+}
+
+.sec2 .col_container>article {
+    background-color: rgb(0, 0, 0);
+    width: 1020px;
+}
+
+.sec2 .col_container>aside {
+    background-color: linen;
+    width: 410px;
+    margin-left: 10px;
+}
+
+.map iframe {
+    width: 100%;
+    height: 1200px;
+}
